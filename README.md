@@ -1,4 +1,4 @@
-![alt text](image.png)# new<p align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0f2027,70:203a43,100:2c5364&height=250&section=header&text=Pradeep%20Pal&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cybersecurity%20Learner&descAlignY=60&descSize=20&descColor=ffffff"/>
 </p>
 
