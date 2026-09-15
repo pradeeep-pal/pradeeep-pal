@@ -81,7 +81,6 @@
 </a>
 &nbsp;&nbsp;
 <a href="mailto:ppal39932@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/pradeeep-pal">
